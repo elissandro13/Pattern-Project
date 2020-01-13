@@ -2,4 +2,4 @@
 
 ## Usage
 
-https://elissandro13.github.io/PatternProject/
+https://elissandro13.github.io/Pattern-Project/
